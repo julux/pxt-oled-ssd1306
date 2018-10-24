@@ -1,6 +1,6 @@
 {
     "name": "SSD1306_OLED",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Pi Supply package for SSD1306 OLED controller",
     "license": "MIT",
     "dependencies": {
@@ -22,5 +22,5 @@
         "tests.ts"
     ],
     "public": true,
-    "installedVersion": "github:pisuply/pxt-oled-ssd1306#v1.1.1"
+    "installedVersion": "github:pisuply/pxt-oled-ssd1306#v1.1.2"
 }
