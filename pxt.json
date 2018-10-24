@@ -21,5 +21,6 @@
     "testFiles": [
         "tests.ts"
     ],
-    "public": true
+    "public": true,
+    "installedVersion": "github:pisuply/pxt-oled-ssd1306#v1.1.1"
 }
