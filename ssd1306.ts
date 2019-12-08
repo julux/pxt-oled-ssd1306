@@ -9,7 +9,9 @@ namespace OLED {
      */
     //% blockId=oled_init_terminal
     //% block="initialize OLED with height %height|width %width"
-    //% icon="\uf1ec" 
+    //% icon="\uf1ec"
+    //% width.defl=128
+    //% height.defl=64
     //% shim=OLED::init_terminal
     export function init(height: number, width: number): void {
         return;
