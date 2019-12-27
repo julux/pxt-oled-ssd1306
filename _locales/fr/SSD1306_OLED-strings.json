@@ -1,0 +1,18 @@
+{
+  "OLED.clear|block": "Effacer écran OLED",
+  "OLED.drawCircle|block": "draw outlined circle with coordinates of centre |x %x|y %y| and radius r %r",
+  "OLED.drawLine|block": "draw line OLED with coordinates |x1 %x1|y1 %y1|x2 %x2|y2 %y2",
+  "OLED.drawRectangle|block": "draw outlined box with coordinates |x %x|y %y|w %w|h %h",
+  "OLED.fillCircle|block": "draw filled circle with coordinates |x %x|y %y|r %r",
+  "OLED.fillRectangle|block": "draw filled box with coordinates |x %x|y %y|w %w|h %h",
+  "OLED.init|block": "initialize OLED with height %height|width %width",
+  "OLED.loadingScreen|block": "show loading screen",
+  "OLED.nextLine|block": "insert newline",
+  "OLED.showNumber1|block": "show (without newline)|number %number",
+  "OLED.showNumber2|block": "show|number %number",
+  "OLED.showProgress|block": "show progress of percentage progress %progress|",
+  "OLED.showStringNoNewLine|block": "show (without newline)|string %text",
+  "OLED.showStringWithNewLine|block": "show|string %text",
+  "OLED|block": "OLED",
+  "{id:category}OLED": "OLED"
+}
